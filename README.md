@@ -1,1 +1,1 @@
-This is the front part for the simpleRestProject
+This is the front part for the simpleRestSpring
